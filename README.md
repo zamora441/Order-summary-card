@@ -25,11 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshots/Order-summary-card-desktop.png)
+![](./screenshots/Order-summary-card-mobile.png)
 
 ### Links
 
--   [Solution URL](https://your-solution-url.com)
+-   [Solution URL](https://splendid-narwhal-77b58e.netlify.app/)
 
 ## My process
 
